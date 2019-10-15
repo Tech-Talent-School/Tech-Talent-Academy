@@ -3,3 +3,5 @@
 ### Database Fundamentals
 ### Networking Fundamentals
 ### Security Fundamentals
+
+## [Study Guide](./MTA-GUIDE.pdf)
