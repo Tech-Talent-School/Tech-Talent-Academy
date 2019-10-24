@@ -20,6 +20,25 @@
 
     - **Module Description:** Define databases, example of relational database tables, and introduce common database terminology
 
+    - <details id="module1-video-contents">
+        <summary>Video Contents</summary>
+        <ul>
+        <li>Course Modules [02:20]</li>
+        <li>Core Concepts [03:30]</li>
+        <li>Introduction to DB [05:20]</li>
+        <li>Relational DBs [08:20]</li>
+        <li>Common Terms [10:45]</li>
+        <li>Database Management System [10:45]</li>
+        <li>Database Server [12:30]</li>
+        <li>SQL Management Studio [15:36]</li>
+        <li>SSMS Demo [16:27]</li>
+        <li>Small talk about Adventure Works 2012 DB [18:30] and about SQL Server Express [20:10]</li>
+        <li>SSMS Demo basic query [20:58]</li>
+        <li>Short Q&A: Schema [24:40] Data Modelling [25:26]</li>
+        <li>Summary [27:50]</li>
+        </ul>  
+      </details>
+
     - Read: [Basic Information about Databases](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
 
 - Watch **Module 2**: [Relational Concepts: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@4f5faa408afa472cb1537046f8575259)
@@ -40,8 +59,8 @@
     - <details>
         <summary>Video Contents</summary>
         <ul>
-            <li>Backup Database [ 27:54 ]</li>
-            <li>Restore Database [ 29:45 ]</li>
+        <li>Backup Database [ 27:54 ]</li>
+        <li>Restore Database [ 29:45 ]</li>
         </ul>  
       </details>
 
