@@ -14,6 +14,8 @@
 
 - Watch: [Introduction to Core Database Concepts (30 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076_DEU+2018_T3+type@azure_media_services+block@8ae67d1aec9a4061bda5ed3c50eb63a0)  
 
+    - Read: [Basic Information about Databases](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
+
 - Watch: [Relational Concepts: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@4f5faa408afa472cb1537046f8575259)        
 
 - Watch: [Creating Databases and Database Objects: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@fd16d42768ee47de8e1294191fb3ed07)        
