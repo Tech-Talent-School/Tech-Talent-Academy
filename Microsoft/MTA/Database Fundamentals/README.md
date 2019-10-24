@@ -10,7 +10,7 @@
 
 - Optional Download of SQL Server 2017 (180 Day Trial) | [DOWNLOAD](https://www.microsoft.com/en-us/sql-server/sql-server-downloads#)
 
-- Enroll in the [Developing SQL Databases](https://www.edx.org/course/developing-sql-databases) EdX course which will be used as a complementary source of studying material. 
+- Enroll in the [Developing SQL Databases](https://www.edx.org/course/developing-sql-databases) EdX course which will be used as a complementary source of study material. 
 
 ### SYLLABUS
 
