@@ -37,14 +37,13 @@
 - Watch **Module 5**: [SQL Server Administration Fundamentals: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@7af972cf1d774196954f918ba6be08be)  
 
     - **Module Description:** SQL Server security, securing database and objects, performing database backups and database restores
-
-<details>
-    <summary>Video Contents</summary>
-    <ul>
-        <li>Backup Database [ 27:54 ]</li>
-        <li>Restore Database [ 29:45 ]</li>
-    </ul>  
-</details>
+    - <details>
+        <summary>Video Contents</summary>
+        <ul>
+            <li>Backup Database [ 27:54 ]</li>
+            <li>Restore Database [ 29:45 ]</li>
+        </ul>  
+      </details>
 
 ### RESOURCES
 
