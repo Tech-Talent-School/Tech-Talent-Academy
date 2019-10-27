@@ -41,3 +41,46 @@
 - Watch [Defining Network Infrastructure and Network Security: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47062+2018_T3+type@azure_media_services+block@8b896d6c4a87482383336e847ff821cb)
 
 - Watch [Concepts of the Internet: (15 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+49627+2018_T3+type@azure_media_services+block@423932c743b2468e96007ff542a41aa4)
+
+### RESOURCES
+
+- [Networking Playlist by Eli the Computer Guy (Total: 30h)](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
+
+- [Microsoft Virtual Academy Videos on YouTube Playlist (incomplete)](https://www.youtube.com/watch?v=t9TmvFvYfWw&list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv)
+    - <details>
+        <summary>Video Contents</summary>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=85s">Objectives</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=172s">Network components and Terminology</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=327s">LAN</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=490s">Networks</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=658s">Network Documentation</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=708s">Hub</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=830s">Switch</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1045s">Router</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1215s">Network Adapter &amp; RJ45 Patch Cable</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1412s">WAP</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1503s">Demo</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1705s">Serial Data Transfer</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1742s">Data Transfer Rate</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=1880s">IP Address</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2110s">LAN Example</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2294s">Virtual LAN</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2466s">Network Topologies</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2795s">Star topology</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2818s">Mesh topology</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2858s">Ring topology</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2896s">Token Ring topology</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=2950s">Ethernet</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3020s">Frames</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3162s">Centralized Computing</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3283s">Client/Server Model</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3322s">Peer-to-Peer networking</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3371s">Distributed Computing</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3431s">Remote Desktop Services and Remote Sessions</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3682s">Client and Server Operating Systems</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3706s">P2P</a></li>
+        <li><a href="https://www.youtube.com/watch?v=t9TmvFvYfWw&amp;list=PLg6YGn11pVACTkMzMp1SvGvyVgFthJcLv&amp;t=3837s">Summary</a></li>
+        </ul>  
+      </details>
+
