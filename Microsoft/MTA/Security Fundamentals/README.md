@@ -4,7 +4,7 @@
 
 ## SYLLABUS
 
-- Watch **Module 1**: [Understanding Security Layers: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+70144+2018_T3+type@azure_media_services+block@bed836111a6a45d5ad93df0564b23fc8)
+- Watch [Understanding Security Layers: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+70144+2018_T3+type@azure_media_services+block@bed836111a6a45d5ad93df0564b23fc8)
 
 - Watch [Authentication, Authorization, and Accounting: (60 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+70144+2018_T3+type@azure_media_services+block@295ce351ee4c423b9953cca04d3d3a97)
 
