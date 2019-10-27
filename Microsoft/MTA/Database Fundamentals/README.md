@@ -79,8 +79,42 @@
 </details>
 
 <details>
+    <summary>DDL | Data Definition Language</summary>
+    <p>DDL or Data Definition Language actually consists of the SQL commands that can be used to define the database schema. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database.</p>
+    <p><strong>Commands: </strong>CREATE, DROP, ALTER, TRUNCATE, COMMENT, RENAME, etc.</p>
+    <p><a href="https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/">Reference</a></p>
+</details>
+
+<details>
+    <summary>DML | Data Manipulation Language</summary>
+    <p>The SQL commands that deals with the manipulation of data present in the database belong to DML or Data Manipulation Language and this includes most of the SQL statements.</p>
+    <p><strong>Commands: </strong>INSERT, UPDATE, DELETE, etc.</p>
+    <p><a href="https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/">Reference</a></p>
+</details>
+
+<details>
+    <summary>Entity</summary>
+    <p>An entity may be defined as a thing capable of an independent existence that can be uniquely identified. An entity is an abstraction from the complexities of a domain. When we speak of an entity, we normally speak of some aspect of the real world that can be distinguished from other aspects of the real world.</p>
+    <p>An entity is a thing that exists either physically or logically. An entity may be a physical object such as a house or a car (they exist physically), an event such as a house sale or a car service, or a concept such as a customer transaction or order (they exist logically—as a concept).</p>
+    <p>Although the term entity is the one most commonly used, following Chen we should really distinguish between an entity and an entity-type. An entity-type is a category. An entity, strictly speaking, is an instance of a given entity-type. There are usually many instances of an entity-type. Because the term entity-type is somewhat cumbersome, most people tend to use the term entity as a synonym for this term.</p>
+    <p>Entities can be thought of as nouns. Examples: a computer, an employee, a song, a mathematical theorem, etc.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Reference</a></p>
+</details>
+
+<details>
+    <summary>Orphans</summary>
+    <p>Records in a Related (child) table that reference records that do not exist in the primary (parent) table <a href="https://youtu.be/oJh5pNhoOLE?t=21">(See video)</a></p>
+</details>
+
+<details>
     <summary>RDBMS | Releational DataBase Management System</summary>
     <p>A software system designed to allow the definition, creation, querying, and updating of data stored in relational databases.<br>A few examples of RDBMS include: Microsoft SQL Server, Microsoft Access, and MySQL.</p>
+</details>
+
+<details>
+    <summary>Relationship</summary>
+    <p>A relationship captures how entities are related to one another. Relationships can be thought of as verbs, linking two or more nouns. Examples: an owns relationship between a company and a computer, a supervises relationship between an employee and a department, a performs relationship between an artist and a song, a proves relationship between a mathematician and a conjecture, etc.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Reference</a></p>
 </details>
 
 <details>
