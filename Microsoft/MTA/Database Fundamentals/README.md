@@ -16,7 +16,7 @@
 
 ### SYLLABUS
 
-- Watch **Module 1**: [Introduction to Core Database Concepts (30 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076_DEU+2018_T3+type@azure_media_services+block@8ae67d1aec9a4061bda5ed3c50eb63a0)  
+- Watch **Module 1**: [Introduction to Core Database Concepts (30 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076_DEU+2018_T3+type@azure_media_services+block@8ae67d1aec9a4061bda5ed3c50eb63a0) | [YouTube version](https://www.youtube.com/watch?v=GdeaqBCR5PQ&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=2&t=0s)  
 
     - **Module Description:** Define databases, example of relational database tables, and introduce common database terminology
 
@@ -41,7 +41,7 @@
 
     - Read: [Basic Information about Databases](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
 
-- Watch **Module 2**: [Relational Concepts: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@4f5faa408afa472cb1537046f8575259)
+- Watch **Module 2**: [Relational Concepts: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@4f5faa408afa472cb1537046f8575259) | [YouTube version](https://www.youtube.com/watch?v=JHUfFyioVQw&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=2)
 
     - **Module Description:** Normalization, referential integrity and constraints
 
@@ -66,15 +66,15 @@
         </p>
     </details>
 
-- Watch **Module 3**: [Creating Databases and Database Objects: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@fd16d42768ee47de8e1294191fb3ed07)
+- Watch **Module 3**: [Creating Databases and Database Objects: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@fd16d42768ee47de8e1294191fb3ed07) | [YouTube version](https://www.youtube.com/watch?v=tKGCeXRyBmk&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=3)
 
     - **Module Description:** Data types, database objects, DDL statements and creating scripts
 
-- Watch **Module 4**: [Using DML Statements: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@bdd0cbd838ec4e5db8b20b6d88d31ad5)       
+- Watch **Module 4**: [Using DML Statements: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@bdd0cbd838ec4e5db8b20b6d88d31ad5) | [YouTube version](https://www.youtube.com/watch?v=oTut_4zXXWI&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=4)     
 
     - **Module Description:** DML statements, using the SELECT statement, using INSERT, UPDATE and DELETE to manage data, indexes and triggers
 
-- Watch **Module 5**: [SQL Server Administration Fundamentals: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@7af972cf1d774196954f918ba6be08be)  
+- Watch **Module 5**: [SQL Server Administration Fundamentals: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@7af972cf1d774196954f918ba6be08be) | [YouTube version](https://www.youtube.com/watch?v=dRN42PI1tBc&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=5)
 
     - **Module Description:** SQL Server security, securing database and objects, performing database backups and database restores
     - <details>
@@ -84,6 +84,8 @@
         <li>Restore Database [ 29:45 ]</li>
         </ul>  
       </details>
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw)
 
 ### RESOURCES
 
