@@ -139,12 +139,12 @@
     <p>A database table is a collection of rows and columns that is used to organize information about <strong>a single topic</strong>. Each row within a table corresponds to a single record and contains several attributes that describe the row. Example of a table stored in a database:</p>
     <table>
         <thead>
-            <th>
-                <td>EmployeeID</td>
-                <td>LastName</td>
-                <td>FirstName</td>
-                <td>Department</td>
-            </th>
+            <tr>
+                <th>EmployeeID</th>
+                <th>LastName</th>
+                <th>FirstName</th>
+                <th>Department</th>
+            </tr>
         </thead>
         <tbody>
             <tr>
