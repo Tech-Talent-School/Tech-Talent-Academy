@@ -45,6 +45,27 @@
 
     - **Module Description:** Normalization, referential integrity and constraints
 
+    - <details id="module1-video-contents">
+        <summary>Video Contents (Waiting for reviewers...)</summary>
+        <ul>
+        <li>Course Modules</li>
+        <li>Normalization [01:42]</li>
+        <li>(Waiting for reviewers...)</li>
+        </ul>  
+      </details>
+
+    - <details id="normalization">
+        <summary><strong>Normalization</strong></summary>
+        <p>
+        <ul>
+           <li><a href="https://www.youtube.com/watch?v=UDFRhj_K508">How to do Database Normalization | 22 min</a></li>
+         <li><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT251x+3T2018/courseware/5241e25a-45c2-52a9-df7a-a1621e919280/4794d76a-6a83-b553-09c2-5c27d47f4119/1?activate_block_id=block-v1%3AMicrosoft%2BDAT251x%2B3T2018%2Btype%40vertical%2Bblock%403488a9ea-d4c5-7a5f-32f3-248cf49c5e7d">Why Normalization (Video) | 7 min</a></li>
+         <li><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT251x+3T2018/courseware/5241e25a-45c2-52a9-df7a-a1621e919280/4794d76a-6a83-b553-09c2-5c27d47f4119/2?activate_block_id=block-v1%3AMicrosoft%2BDAT251x%2B3T2018%2Btype%40vertical%2Bblock%40b5b2a18e-bfea-f81d-41a8-a300f00adf07">Getting to First Normal Form (1NF) (Video) | 3 min</a></li>
+         <li><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT251x+3T2018/courseware/5241e25a-45c2-52a9-df7a-a1621e919280/4794d76a-6a83-b553-09c2-5c27d47f4119/3?activate_block_id=block-v1%3AMicrosoft%2BDAT251x%2B3T2018%2Btype%40vertical%2Bblock%40de8234b6-cc5c-a9dd-fced-97f26850e1a8">Getting to Second and Third Normal Form (2NF, 3NF) (Video) | 10 min</a></li>
+        </ul>
+        </p>
+    </details>
+
 - Watch **Module 3**: [Creating Databases and Database Objects: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@fd16d42768ee47de8e1294191fb3ed07)
 
     - **Module Description:** Data types, database objects, DDL statements and creating scripts
