@@ -73,6 +73,12 @@
 ### TERMINOLOGY
 
 <details>
+    <summary>Database (DB)</summary>
+    <p>A database is an organized collection of data, typically stored in electronic format. It allows you to input, manage, organize and retrieve data quickly.</p>
+    <p>Traditional databases are organized by records (rows), fields (columns) stored in tables which are stored in the database files.</p>
+</details>
+
+<details>
     <summary>DBMS | DataBase Management System</summary>
     <p>Used by users to access the data stored in database files and perform administrative tasks on the databases and objects contained within the database. DBMS can also provide additional functionality like reporting services to help you create, deploy, and manage reports for your organization.
     </p>
@@ -118,7 +124,7 @@
 </details>
 
 <details>
-    <summary>Releational DataBase(s)</summary>
+    <summary>Relational DataBase(s)</summary>
     <p>	A relational DataBase is a collection of tables where the tables are able to talk to each other.<br>In a relational DB the collection of tables of data is formally described and organized according to the relational model. Each table must identify a column or group of columns, called the PRIMARY KEY, to uniquely identify each row. 
 </p>
 </details>
@@ -126,4 +132,39 @@
 <details>
     <summary>SSMS | SQL Server Management Studio</summary>
     <p>A GUI used to browse, select and manage SQL Server instances and any of the objects within these SQL Server instances.</p>
+</details>
+
+<details>
+    <summary>Table</summary>
+    <p>A database table is a collection of rows and columns that is used to organize information about <strong>a single topic</strong>. Each row within a table corresponds to a single record and contains several attributes that describe the row. Example of a table stored in a database:</p>
+    <table>
+        <thead>
+            <th>
+                <td>EmployeeID</td>
+                <td>LastName</td>
+                <td>FirstName</td>
+                <td>Department</td>
+            </th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>100</td>
+                <td>Smith</td>
+                <td>Bob</td>
+                <td>IT</td>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td>Jones</td>
+                <td>Susan</td>
+                <td>Marketing</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Adams</td>
+                <td>John</td>
+                <td>Finance</td>
+            </tr>
+        </tbody>
+    </table>
 </details>
