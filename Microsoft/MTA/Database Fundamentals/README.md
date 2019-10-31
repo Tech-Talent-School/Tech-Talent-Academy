@@ -7,6 +7,7 @@
 - Install **SQL Server 2017 Express** Edition (Free) | [DOWNLOAD](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
     - Choose the **Basic** Install
 - Install **SQL Server Management Studio (SSMS)** | [DOWNLOAD](https://docs.microsoft.com/en-gb/sql/ssms/download-sql-server-management-studio-ssms)
+    - [Introduction to SQL Server Management Studio (Video: 8 min)](https://www.youtube.com/watch?v=2WX32qWiFfw)
 
 - Download and Import (Attach) the AdventureWorks 2012 sample database | [DOWNLOAD](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks2012/adventure-works-2012-oltp-data-file.mdf)
 
