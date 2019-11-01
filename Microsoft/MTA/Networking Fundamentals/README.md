@@ -89,6 +89,14 @@
     </details>
 
   - [02 - Networking Fundamentals - Defining Networks with the OSI Model (40 min)](https://www.youtube.com/watch?v=HOl6gKO5QcY&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm&index=3&t=0s)
+
+    - <details>
+      <summary>OSI Model</summary>
+      <li><a href="https://www.youtube.com/watch?v=eKHCH6rw0As">OSI Reference Model (50 min)</a></li>
+      <li><a href="https://www.wikiwand.com/en/OSI_model">OSI Model (Wikipedia)</a></li>
+      <li><a href="https://www.tutorialspoint.com/OSI-vs-TCP-IP-Reference-Model">OSI vs. TCP/IP Reference Model</a></li>
+    </details>
+
   - [03 - Networking Fundamentals - Understanding Wired and Wireless Networks](https://www.youtube.com/watch?v=i25aRHLnZTs&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm&index=4&t=0s)
 
     - <details>
@@ -131,7 +139,10 @@
   - [06 - Networking Fundamentals - Working with Networking Services (1 hour)](https://www.youtube.com/watch?v=H3pe95b-6wQ&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm&index=7&t=0s)
   - [07 - Networking Fundamentals - Understanding Wide Area Networks (40 min)](https://www.youtube.com/watch?v=r7n1xrcImDI&list=PLIoX3-mcY80giUxyJqOCgYDJMt3LVRDNm&index=8&t=0s)
 
+- [Networking Fundamentals (YouTube Playlist)](https://www.youtube.com/watch?v=98ulMj5AFGw&list=PLc5CkqRjW1BRDbKdL4Y9juQwy16erQkBF)
+
 ### RESOURCES
+
 
 - [Networking Playlist by Eli the Computer Guy (Total: 30h)](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
 
