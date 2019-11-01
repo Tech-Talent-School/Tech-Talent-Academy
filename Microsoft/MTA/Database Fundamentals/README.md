@@ -67,6 +67,13 @@
         </p>
     </details>
 
+    - <details id="referential-integrity">
+        <summary>Referential Integrity</summary>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=pCZwo99uHXQ&list=PLsrZV8shpwjM71pXuhXu9dSM2QL5kZIoh&index=14">SQL Database Fundamentals: Referential Integrity</a></li>
+        </ul>
+    </details>
+
 - Watch **Module 3**: [Creating Databases and Database Objects: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@fd16d42768ee47de8e1294191fb3ed07) | [YouTube version](https://www.youtube.com/watch?v=tKGCeXRyBmk&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=3)
 
     - **Module Description:** Data types, database objects, DDL statements and creating scripts
