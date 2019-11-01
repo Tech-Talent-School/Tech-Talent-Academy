@@ -70,6 +70,21 @@
 
     - **Module Description:** Data types, database objects, DDL statements and creating scripts
 
+    - <details id="creating-tables">
+        <summary>Creating and Updating Tables</summary>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=D6DDgRjwUYU&list=PLsrZV8shpwjM71pXuhXu9dSM2QL5kZIoh&index=10">SQL Database Fundamentals: 03.1 Demo: Creating Tables</a></li>
+        </ul>
+    </details>
+
+    - <details id="data-types">
+        <summary>Data Types</summary>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=_yzzn0fUmi8&list=PLsrZV8shpwjM71pXuhXu9dSM2QL5kZIoh&index=11">Data Types (23 min)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=9KB2U5eYQeM&list=PLsrZV8shpwjM71pXuhXu9dSM2QL5kZIoh&index=12">Working with Data Types (10 min)</a></li>
+        </ul>
+    </details>
+
 - Watch **Module 4**: [Using DML Statements: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@bdd0cbd838ec4e5db8b20b6d88d31ad5) | [YouTube version](https://www.youtube.com/watch?v=oTut_4zXXWI&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=4)     
 
     - **Module Description:** DML statements, using the SELECT statement, using INSERT, UPDATE and DELETE to manage data, indexes and triggers
