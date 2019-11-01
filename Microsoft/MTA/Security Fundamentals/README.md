@@ -14,7 +14,8 @@
 
 - Watch **Module 5**: [Protecting the Server and Client: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+70144+2018_T3+type@azure_media_services+block@6c2de807d3a248469cde90ea0056281e) | [YouTube version](https://www.youtube.com/watch?v=CTIygGJ2KV8&list=PLIoX3-mcY80gXKw6NnPy7NTev55T7LU_k&index=6&t=0s)
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLIoX3-mcY80gXKw6NnPy7NTev55T7LU_k)
+- [YouTube Playlist (Microsoft Video Courses)](https://www.youtube.com/watch?v=tfVR4kGFI08&list=PLc5CkqRjW1BQClhGvFQk-c8nxg5hQq9sg)
+- [YouTube Playlist (Alternative)](https://www.youtube.com/playlist?list=PLIoX3-mcY80gXKw6NnPy7NTev55T7LU_k)
 
 ### RESOURCES
 
