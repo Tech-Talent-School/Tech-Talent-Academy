@@ -85,13 +85,16 @@
         </ul>  
       </details>
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw)
+- [YouTube Playlist (Microsoft Video Courses)](https://www.youtube.com/watch?v=81PWjzfxerE&list=PLc5CkqRjW1BRX-5TI3zT2kJBiq5Uadlz6)
+- [YouTube Playlist (Alternative)](https://www.youtube.com/playlist?list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw)
 
 ### RESOURCES
 
 - [Relational Databases](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
 
 - [SQLFiddle](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.   
+
+- [Microsoft SQL Database Fundamentals](https://www.youtube.com/playlist?list=PLc5CkqRjW1BQmPrZXw0i2BRANoM4hCwtz)
 
 ### TERMINOLOGY
 
