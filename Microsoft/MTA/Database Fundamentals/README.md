@@ -41,6 +41,28 @@
       </details>
 
     - Read: [Basic Information about Databases](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
+    
+    - <details>
+      <summary>
+          <a href="https://www.youtube.com/watch?v=-mVDfFDWcqg">Microsoft MTA Database Administration Fundamentals (26 min)</a>
+          <strong>A quick overview of the following concepts:</strong>
+          <ul>
+            <li>Understand how data is stored in tables</li>
+            <li>Understand columns and fields</li>
+            <li>Understand rows and records</li>
+            <li>What is a database</li>
+            <li>What is a DBMS</li>
+            <li>What is a Table</li>
+            <li>What is a Query</li>
+            <li>What is an Index</li>
+            <li>What is a Database Server</li>
+            <li>How is data stored</li>
+            <li>Types of Databases</li>
+            <li>What is a relational database?</li>
+          </ul>
+      </summary>
+    </details>
+    
 
 - Watch **Module 2**: [Relational Concepts: (50 min)](https://openedx.microsoft.com/embed_player/block-v1:Microsoft+47076+2018_T3+type@azure_media_services+block@4f5faa408afa472cb1537046f8575259) | [YouTube version](https://www.youtube.com/watch?v=JHUfFyioVQw&list=PLIoX3-mcY80hub9r9D9_ltMFW6mdRLLTw&index=2)
 
