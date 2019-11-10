@@ -260,3 +260,10 @@
         </tbody>
     </table>
 </details>
+
+<details id="view">
+  <summary>View</summary>
+  <p>A view is a virtual table whose contents are defined by a query. Like a table, a view consists of a set of named columns and rows of data. Unless indexed, a view does not exist as a stored set of data values in a database. The rows and columns of data come from tables referenced in the query defining the view and are produced dynamically when the view is referenced.</p>
+  <p><a href="https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver15">Source</a></p>
+</details>
+
