@@ -178,6 +178,15 @@
     <p><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Reference</a></p>
 </details>
 
+<details id="information_schema">
+	<summary>Information Schema</summary>
+	<p>A set of read-only views which provide information about all of the tables, views, columns, and procedures in a database.</p>
+	<p>When writing queries for a database you might be new to, or one that changes often, you might want to run a quick check to find all the tables in a specific database, or the columns in the database, or to search if table or column exists.</p>
+  <p>Querying the metadata on a data source is the easiest way to determine the makeup of a table if you don’t have an understanding of it already. Microsoft SQL Server provides an information schema view as one of several methods for obtaining this metadata.</p>
+	<p><a href="https://wikiwand.com/en/Information_schema">Source (1)</a></p>
+	<p><a href="https://chartio.com/learn/databases/using-information-schema-views-to-check-to-see-if-table-exists-in-sql-server/">Source (2)</a></p>
+</details>
+
 <details id="ldf">
     <summary>LDF (Transaction log files)</summary>
     <p>An LDF file is a log file created by SQL Server, a relational database management system (RDBMS) developed by Microsoft. It contains a log of recent actions executed by the database and is used to track events so that the database can recover from hardware failures or other unexpected shutdowns.</p>
