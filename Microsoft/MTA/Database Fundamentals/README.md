@@ -45,6 +45,7 @@
     - <details>
       <summary>
           <a href="https://www.youtube.com/watch?v=-mVDfFDWcqg">Microsoft MTA Database Administration Fundamentals (26 min)</a>
+      </summary>
           <strong>A quick overview of the following concepts:</strong>
           <ul>
             <li>Understand how data is stored in tables</li>
@@ -60,7 +61,6 @@
             <li>Types of Databases</li>
             <li>What is a relational database?</li>
           </ul>
-      </summary>
     </details>
     
 
