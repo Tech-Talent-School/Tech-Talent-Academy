@@ -185,6 +185,20 @@
     <p><a href="https://youtu.be/-mVDfFDWcqg?t=853">How is data stored in a Database?</a></p>
 </details>
 
+<details id="mdf">
+	<summary>MDF (Primary database file)</summary>
+	<p>Primary files that hold user-defined objects, e.g. tables and views, as well as system tables. This is where the SQL server stores its data.</p>
+	<p>Primary database file format used by Microsoft SQL Server, an enterprise-level database program; used for database files installed with SQL Server and related add-ons; custom MDF files may also be created by the user.</p>
+	<p><a href="https://fileinfo.com/extension/mdf">Source</a></p>
+</details>
+
+<details id="ndf">
+	<summary>NDF (SQL Server Secondary Database File)</summary>
+	<p>Secondary database file used by Microsoft SQL Server; created when the primary .MDF database becomes too large (such as when there is no disk space left); may also be manually added to the SQL Server File Group to distribute data between the two files.</p>
+	<p>NDF files are typically stored on a different hard disk or partition than the primary database file. Each NDF file uses the same filename as the corresponding MDF file, such as "mydb.mdf" and "mydb.ndf." Also, the NDF file cannot be opened by SQL Server without the MDF file attached.</p>
+	<p><a href="https://fileinfo.com/extension/ndf">Source</a></p>
+</details>
+
 <details>
     <summary>Orphans</summary>
     <p>Records in a Related (child) table that reference records that do not exist in the primary (parent) table <a href="https://youtu.be/oJh5pNhoOLE?t=21">(See video)</a></p>
