@@ -178,6 +178,13 @@
     <p><a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model">Reference</a></p>
 </details>
 
+<details id="ldf">
+    <summary>LDF (Transaction log files)</summary>
+    <p>An LDF file is a log file created by SQL Server, a relational database management system (RDBMS) developed by Microsoft. It contains a log of recent actions executed by the database and is used to track events so that the database can recover from hardware failures or other unexpected shutdowns.</p>
+    <p><a href="https://fileinfo.com/extension/ldf">Reference: </a></p>
+    <p><a href="https://youtu.be/-mVDfFDWcqg?t=853">How is data stored in a Database?</a></p>
+</details>
+
 <details>
     <summary>Orphans</summary>
     <p>Records in a Related (child) table that reference records that do not exist in the primary (parent) table <a href="https://youtu.be/oJh5pNhoOLE?t=21">(See video)</a></p>
