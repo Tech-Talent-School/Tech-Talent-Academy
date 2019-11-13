@@ -2,6 +2,10 @@
 
 **[Exam Details](https://www.microsoft.com/en-us/learning/exam-98-364.aspx)**
 
+#### NOTES
+
+__[&checkmark;]__ : Student Approved Resource
+
 ### **Prerequisites** 
 
 - Install **SQL Server 2017 Express** Edition (Free) | [DOWNLOAD](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
@@ -140,6 +144,8 @@
 - [SQLFiddle](http://sqlfiddle.com/): A tool for easy online testing and sharing of database problems and their solutions.   
 
 - [Microsoft SQL Database Fundamentals](https://www.youtube.com/playlist?list=PLc5CkqRjW1BQmPrZXw0i2BRANoM4hCwtz)
+
+- [SQL Server Tutorial](http://www.sqlservertutorial.net/) __[&checkmark;]__ 
 
 ### TERMINOLOGY
 
